@@ -14,3 +14,5 @@ public class DiscoveryServerApplication {
 
 }
 
+// List of registered instances
+// http://localhost:8761/
